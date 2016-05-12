@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: '“Someone who figures that taking a step backwards after taking a step forwards is not disaster, it’s a cha-cha…”'
-datePublished: '2016-05-12T20:00:42.961Z'
-dateModified: '2016-05-12T19:58:21.697Z'
+datePublished: '2016-05-12T20:02:27.252Z'
+dateModified: '2016-05-12T20:01:07.441Z'
 title: ''
 author:
   - name: ''
@@ -18,7 +18,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: someone-who-figures-that-taking-a-step-backwards-after-taki/index.html
 _type: Article
 
