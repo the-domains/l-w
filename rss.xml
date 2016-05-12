@@ -4,7 +4,7 @@
         <description><![CDATA[BENERAN]]></description>
         <link>https://thegrid.ai/l-w/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 May 2016 23:46:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2016 23:46:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/l-w/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[MENU3]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/l-w/someone-who-figures-that-taking-a-step-backwards-after-taki/index.html</link>
             <guid isPermaLink="false">6cccffc2-10b0-47ff-90fb-7ad52578a643</guid>
             <pubDate>Thu, 12 May 2016 23:46:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MENU 1]]></title>
+            <description><![CDATA[<p>MENU 1</p>]]></description>
+            <link>https://thegrid.ai/l-w/menu-1/index.html</link>
+            <guid isPermaLink="false">4d862bab-2cfb-43e7-a186-034305659bce</guid>
+            <pubDate>Thu, 12 May 2016 23:46:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[SOFA]]></title>
@@ -33,13 +40,6 @@
             <link>https://thegrid.ai/l-w/menu-2/index.html</link>
             <guid isPermaLink="false">f69657f8-5227-4278-a444-d317718974c3</guid>
             <pubDate>Thu, 12 May 2016 22:29:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MENU 1]]></title>
-            <description><![CDATA[<p>MENU 1</p>]]></description>
-            <link>https://thegrid.ai/l-w/menu-1/index.html</link>
-            <guid isPermaLink="false">4d862bab-2cfb-43e7-a186-034305659bce</guid>
-            <pubDate>Thu, 12 May 2016 20:26:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
