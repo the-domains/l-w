@@ -1,0 +1,28 @@
+name: l@W
+favicon: null
+layout_spectrum: 0.5820269787218422
+typography_spectrum: 0.8259829289745539
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.462522936752066
+  lightness: 0.2673052961472422
+  saturation: 0.608759464463219
+  rhythmicContrast: 0.8250325431581587
+purpose: []
