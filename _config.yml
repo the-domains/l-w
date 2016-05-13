@@ -1,29 +1,41 @@
-name: l@W
-favicon: null
-layout_spectrum: 0.75378
-typography_spectrum: 0.8259829289745539
 title: BENERAN
 cta:
-  domain: null
-  bucket: null
   version: null
+  bucket: null
+  domain: null
+layout_spectrum: 0.75378
+favicon: null
+name: l@W
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
+  brandStrength: 0.72403
+  lightness: 0.2673052961472422
+  saturation: 0.608759464463219
+  rhythmicContrast: 0.8250325431581587
   brandColors:
     - '#ADD7F6'
     - '#87BFFF'
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.462522936752066
-  lightness: 0.2673052961472422
-  saturation: 0.608759464463219
-  rhythmicContrast: 0.8250325431581587
-purpose: []
+typography_spectrum: 0.8259829289745539
