@@ -1,20 +1,8 @@
-title: BENERAN
-cta:
-  version: null
-  bucket: null
-  domain: null
-layout_spectrum: 0.6802253
-favicon: null
 name: l@W
-purpose: []
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.6802253
+typography_spectrum: 1
+title: null
 collections:
   - index:
       navigable: true
@@ -27,15 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.72403
-  lightness: 0.2673052961472422
-  saturation: 0.608759464463219
-  rhythmicContrast: 0.8250325431581587
   brandColors:
     - '#ADD7F6'
     - '#87BFFF'
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-typography_spectrum: 1
+  brandStrength: 0.72403
+  lightness: 0.2673052961472422
+  saturation: 0.608759464463219
+  rhythmicContrast: 0.8250325431581587
+purpose: []
