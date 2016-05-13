@@ -3,7 +3,7 @@ cta:
   version: null
   bucket: null
   domain: null
-layout_spectrum: 0.75378
+layout_spectrum: 0.6802253
 favicon: null
 name: l@W
 purpose: []
@@ -38,4 +38,4 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-typography_spectrum: 0.8259829289745539
+typography_spectrum: 1
