@@ -4,11 +4,13 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-05-16T04:03:01.538Z'
-dateModified: '2016-05-16T04:02:51.365Z'
+description: "The idea of whale watching has always appealed to me. I've seen many documentaries about whales and of course, have watched the animated film Finding Nemo. I find these giant mammals fascinating, and I couldn't think of a more thrilling experience than coming face to face with one of these leviathans."
+datePublished: '2016-05-16T04:04:21.053Z'
+dateModified: '2016-05-16T04:04:20.898Z'
 title: A Whale of a Time
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-16-a-whale-of-a-time.md
 authors: []
 publisher:
@@ -21,7 +23,7 @@ url: a-whale-of-a-time/index.html
 _type: Article
 
 ---
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6af93712b2755ea941944314338902e7/passthrough.jpg?height=220&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F7a8afe000314ed7a9bfd536134f681548505a474.jpg&width=400)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c9f1457474a6481cc434656cfde5be2fd6fa95b7.jpg)
 
 ## [A Whale of a Time][0]
 
