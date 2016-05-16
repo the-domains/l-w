@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-16T03:58:35.720Z'
-dateModified: '2016-05-16T03:58:03.517Z'
+datePublished: '2016-05-16T03:59:39.739Z'
+dateModified: '2016-05-16T03:58:37.432Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-16-a-whale-of-a-time.md
