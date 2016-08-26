@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-08-26T10:49:16.518Z'
+datePublished: '2016-08-26T10:50:44.038Z'
 sourcePath: _posts/2016-05-16-daily-avocado.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-08-26T10:49:15.567Z'
+via: {}
+dateModified: '2016-08-26T10:50:42.751Z'
 title: ''
 publisher: {}
 description: Daily Avocado
 inLanguage: null
 inNav: false
-via: {}
 starred: false
 url: daily-avocado/index.html
 _type: Article
