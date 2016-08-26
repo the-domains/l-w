@@ -28,6 +28,9 @@ navigation:
   - name: REBORN
     id: f69657f8-5227-4278-a444-d317718974c3
     type: content
+  - name: About
+    id: 4d862bab-2cfb-43e7-a186-034305659bce
+    type: content
 favicon: null
 collections:
   - index:
